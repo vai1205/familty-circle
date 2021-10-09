@@ -875,7 +875,7 @@ a:visited {
 
 @media(max-width: 1450px) {
 	.banner-one__bg {
-		right: -30%;
+		/* right: -30%; */
 	}
 }
 
